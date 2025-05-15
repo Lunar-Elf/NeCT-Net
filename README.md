@@ -1,2 +1,2 @@
-# NeCT-Net
-Estimating Individual Building Heights via Integrating Spaceborne LiDAR and Multisource Remote Sensing Data: A CNN-Transformer Model Enhanced by Sample-Based Semi-Supervised Learning 
+# Estimating Individual Building Heights via Integrating Spaceborne LiDAR and Multisource Remote Sensing Data: A CNN-Transformer Model Enhanced by Sample-Based Semi-Supervised Learning 
+We construct a multimodal feature set by extracting seasonal features from a combination of multisource datasets, such as Sentinel-1, Sentinel-2, and SDGSAT-1. To model the spatially complex height distribution, we propose the Neighborhood-aware CNN-Transformer Network (NeCT-Net), which estimates building heights at the pixel level.  
